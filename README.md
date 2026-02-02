@@ -8,14 +8,13 @@ A lightweight iOS Notes app built with **SwiftUI** and **SwiftData**, focused on
 - Notes sorted by last updated time
 - Empty-state UX using `ContentUnavailableView`
 - NavigationStack-based flow
-- System-consistent UI (iOS-native look & feel)
+- System-consistent UI
 
 ## Tech Stack
 - SwiftUI
 - SwiftData
 - NavigationStack
-- MV-style separation
-- iOS 17+
+- MV-style architecture
 
 ## Why this project
 This project was built to demonstrate:
