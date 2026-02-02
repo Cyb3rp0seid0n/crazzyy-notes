@@ -1,10 +1,3 @@
-//
-//  Note.swift
-//  CrazzyyNotes
-//
-//  Created by Mac HD on 02/02/26.
-//
-
 
 import SwiftData
 import Foundation
