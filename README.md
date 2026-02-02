@@ -27,16 +27,16 @@ This project was built to demonstrate:
 ## Screenshots
 
 ### Notes Home
-<img src="CrazzyNotes/Screenshots/notes.png" width="300" />
+<img src="CrazzyyNotes/Screenshots/notes.png" width="300" />
 
 ### Notes List
-<img src="CrazzyNotes/Screenshots/notes-list.png" width="300" />
+<img src="CrazzyyNotes/Screenshots/notes-list.png" width="300" />
 
 ### Note Editor
-<img src="CrazzyNotes/Screenshots/notes-editor.png" width="300" />
+<img src="CrazzyyNotes/Screenshots/notes-editor.png" width="300" />
 
 ### Notes Delete
-<img src="CrazzyNotes/Screenshots/notes-delete.png" width="300" />
+<img src="CrazzyyNotes/Screenshots/notes-delete.png" width="300" />
 
 
 
